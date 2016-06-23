@@ -1,0 +1,8 @@
+/*.js
+!index.js
+/*.map
+/src/*.js
+/src/*.map
+/node_modules
+/npm-debug.log
+/_tsfile

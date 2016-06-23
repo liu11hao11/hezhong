@@ -1,0 +1,6 @@
+*.ts
+*.map
+.git
+typings
+*.log
+test.js

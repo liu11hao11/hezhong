@@ -1,0 +1,19 @@
+{
+  "name": "hezhong",
+  "version": "1.0.2",
+  "description": "api for call hezhong",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },  
+  "keywords": [
+    "sms"
+  ],
+  "author": "liu11hao11@126.com",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.27",
+    "lodash": "^3.9.3",
+    "restling": "^0.9.1"
+  }
+}
