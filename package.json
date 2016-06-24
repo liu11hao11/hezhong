@@ -1,6 +1,6 @@
 {
   "name": "hezhong",
-  "version": "1.0.2",
+  "version": "0.0.1",
   "description": "api for call hezhong",
   "main": "index.js",
   "scripts": {
