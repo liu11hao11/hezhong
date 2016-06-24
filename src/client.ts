@@ -16,8 +16,8 @@ class Client{
 				unitid:this.config.unitid,//企业代码
 				username:this.config.username,//用户账号
 				passwd:this.config.passwd,//用户密码(MD5加密，32位小写)
-				msg:msg,//发送内容
-				phone:phone,
+				msg:content,//发送内容
+				phone:mobile,
 				port:this.config.port || "",//扩展端口号
 				sendtime:""//发送时间(格式1900-01-01 00:00:00)，留空为立即下发
 			}
