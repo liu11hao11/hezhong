@@ -5,7 +5,7 @@
 ## 使用
 
 ```js
-var mess=require("./src/client");
+var mess=require("./index");
 
 var client = new mess({
     unitid:"test",
