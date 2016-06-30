@@ -1,6 +1,13 @@
-# 合众平台短信API
+# 合众平台短信API。Nodejs方式调用
 
-基于typescript，三网合一平台。1069*******
+基于typescript，通过三网合一平台。1069*******
+
+## 安装
+
+```
+npm install hezhong
+```
+
 
 ## 使用
 
